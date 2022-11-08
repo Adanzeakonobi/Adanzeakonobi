@@ -18,6 +18,10 @@
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=e86d6d)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ## **Tools** 🛠 
 
@@ -26,6 +30,15 @@
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
 ![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+## **Database management systems** ℹ
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C8EBB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## **Operating systems** 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## **Github Stats**
 <a align="center" href="https://github.com/Adanzeakonobi/github-readme-stats">
